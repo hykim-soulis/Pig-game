@@ -4,7 +4,7 @@ This project is a simple dice game with 2 players. I learned how to implement ro
 
 ## Project Description
 
-Players take turns to roll a single dice as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1. The first player to score 100 or more points wins the game.
+Players take turns to roll a single dice as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1. The first player to score 100 or more points wins the game. ([Learn more](<https://en.wikipedia.org/wiki/Pig_(dice_game)>)
 
 This project is a coding-along javascript with the Udemy The Complete JavaScript Course 2022 by instructor Jonas Schmedtmann. HTML, CSS and image files were provided by the instructor.
 

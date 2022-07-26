@@ -8,11 +8,15 @@ Players take turns to roll a single dice as many times as they wish, adding all 
 
 This project is a coding-along javascript with the Udemy The Complete JavaScript Course 2022 by instructor Jonas Schmedtmann. HTML, CSS and image files were provided by the instructor.
 
-What I've learned:
+### What I've learned:
 
 - DOM Manipulation
 - CSS Style Manipulation
 - Event Handling
+
+### Live demo link
+
+[https://piggame-hyeyoung.netlify.app/](https://piggame-hyeyoung.netlify.app/)
 
 ![The game logic](https://github.com/jonasschmedtmann/complete-javascript-course/blob/master/07-Pig-Game/starter/pig-game-flowchart.png?raw=true)
 

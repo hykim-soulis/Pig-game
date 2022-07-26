@@ -18,6 +18,8 @@ This project is a coding-along javascript with the Udemy The Complete JavaScript
 
 [https://piggame-hyeyoung.netlify.app/](https://piggame-hyeyoung.netlify.app/)
 
+### logic flowchart
+
 ![The game logic](https://github.com/jonasschmedtmann/complete-javascript-course/blob/master/07-Pig-Game/starter/pig-game-flowchart.png?raw=true)
 
 ## How to Install and Run the Project

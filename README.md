@@ -1,6 +1,6 @@
 # Pig Game
 
-This project is a simple dice game with 2 players. I learned how to implement roll dice, hold and new game logics with javascript.
+This project is a simple dice game with 2 players. I learned how to implement roll dice, hold dice and start new game logics with javascript.
 
 ## Project Description
 
@@ -40,7 +40,7 @@ This project is a coding-along javascript with the Udemy The Complete JavaScript
 
 ## Resource
 
-The below link is the instructors github address.
+The below link is the instructor's github address.
 
 [Instructor's GitHub](https://github.com/jonasschmedtmann/complete-javascript-course.git)
 
